@@ -11,10 +11,15 @@ Sri Lanka's trusted Tamil matrimony platform with AI-driven match recommendation
 
 
 
-<img width="1133" height="646" alt="Landing" src="https://github.com/user-attachments/assets/9218f4b0-a66d-4593-a920-ff67bbb3ee76" />
-<img width="1510" height="855" alt="Home" src="https://github.com/user-attachments/assets/ded67d26-9b6a-49b1-856d-857a5e2b7669" />
-<img width="1510" height="855" alt="    Dashboard" src="https://github.com/user-attachments/assets/0fc5fc66-c445-429c-be4d-95e75c71f4d8" />
-<img width="1510" height="855" alt="    Matches Page" src="https://github.com/user-attachments/assets/17e62bad-038d-4650-9962-9e8b8edcd095" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9218f4b0-a66d-4593-a920-ff67bbb3ee76" width="75%" alt="Landing" />
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/ded67d26-9b6a-49b1-856d-857a5e2b7669" width="75%" alt="Home" />
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/0fc5fc66-c445-429c-be4d-95e75c71f4d8" width="75%" alt="Dashboard" />
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/17e62bad-038d-4650-9962-9e8b8edcd095" width="75%" alt="Matches Page" />
+</div>
 ---
 
 ## ✨ Key Features
