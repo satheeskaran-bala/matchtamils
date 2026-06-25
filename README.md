@@ -8,18 +8,15 @@ Sri Lanka's trusted Tamil matrimony platform with AI-driven match recommendation
 
 ## 📸 Screenshots
 
-
-
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9218f4b0-a66d-4593-a920-ff67bbb3ee76" width="75%" alt="Landing" />
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/ded67d26-9b6a-49b1-856d-857a5e2b7669" width="75%" alt="Home" />
-  <br/><br/>
+ 
   <img src="https://github.com/user-attachments/assets/0fc5fc66-c445-429c-be4d-95e75c71f4d8" width="75%" alt="Dashboard" />
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/17e62bad-038d-4650-9962-9e8b8edcd095" width="75%" alt="Matches Page" />
 </div>
+
 ---
 
 ## ✨ Key Features
@@ -34,17 +31,38 @@ Sri Lanka's trusted Tamil matrimony platform with AI-driven match recommendation
 
 ---
 
+## 🧩 System Modules
+
+The platform is structured into **4 independent modules**, each serving a distinct purpose:
+
+| Module | Tech | Description |
+|---|---|---|
+| **Landing Page** | Next.js | Public-facing marketing site with SEO optimization, multi-language support, and conversion-focused design |
+| **User Application** | React.js | Core matrimony app where members register, build profiles, browse matches, chat, and manage their account |
+| **Admin Panel** | React.js | Internal dashboard for platform management — member verification, content moderation, analytics, and system configuration |
+| **Backend API** | NestJS | Centralized REST API powering all modules — authentication, business logic, real-time events, and third-party integrations |
+
+---
+
+## 🌐 SEO & Professional Communication
+
+- **SEO Optimized** — Implemented server-side rendering with Next.js for landing page, meta tags, Open Graph, structured data, and sitemap for maximum search engine visibility
+- **Professional Domain Emails** — Configured and integrated branded email addresses (e.g. hello@matchtamils.com) for all transactional and notification emails, reinforcing platform credibility and deliverability
+
+---
+
 ## 🛠 Tech Stack
 
 | Layer | Technology |
 |---|---|
-| Frontend | Next.js, React.js, TypeScript |
+| Landing Page | Next.js (SSR + SEO) |
+| User App & Admin | React.js, TypeScript |
 | Backend | NestJS, Node.js |
 | Database | PostgreSQL |
 | Cache | Redis |
 | Real-time | WebSockets |
 | Cloud | DigitalOcean |
-| Notifications | SMS Gateway, Email Delivery |
+| Notifications | SMS Gateway, Domain Email Delivery |
 | Auth | JWT, Secure session management |
 
 ---
